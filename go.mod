@@ -1,3 +1,2 @@
-module github.com/ez4o/go-try
-
+module github.com/steeldomejeff/go-try
 go 1.18
